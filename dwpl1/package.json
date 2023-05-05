@@ -1,0 +1,29 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "Primer servidor con node",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "18.14"
+  },
+  "scripts": {
+    "start": "node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivalcoba-dev/dwpc1-first-server-2023a.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "pwpc1",
+    "itgam"
+  ],
+  "author": "@rivalcoba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rivalcoba-dev/dwpc1-first-server-2023a/issues"
+  },
+  "homepage": "https://github.com/rivalcoba-dev/dwpc1-first-server-2023a#readme"
+}
